@@ -1,1 +1,3 @@
 adas
+
+<?php echo 'Hello world!'; ?>
